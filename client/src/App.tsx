@@ -7,7 +7,7 @@ import HomePage from "./pages/HomePage"
 const App = () => {
     return (
         <>
-            <Router>
+            <Router>  
                 <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/editor/:roomId" element={<EditorPage />} />

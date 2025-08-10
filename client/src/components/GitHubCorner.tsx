@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/satyamyadav04/"
+            href="https://github.com/satyamyadav04/code-sycn.git"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
