@@ -31,7 +31,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here]().
+You can view the live preview of the project [here](https://calm-platypus-194e93.netlify.app/).
 
 ## 💻 Tech Stack
 
